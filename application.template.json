@@ -1,0 +1,20 @@
+{
+  "name": "${project.name}",
+  "version": "${project.version}",
+  "description": "${project.description}",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-acquisitions",
+      "version": "^1.2.0-SNAPSHOT",
+      "preRelease": "only"
+    }
+  ],
+  "modules": [
+    {
+      "name": "mod-ebsconet",
+        "version": "latest",
+        "preRelease": "only"
+    }
+  ]
+}
