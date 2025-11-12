@@ -1,6 +1,6 @@
 {
   "name": "app-ebsconet",
-  "version": "1.1.0-SNAPSHOT.100200000000525",
+  "version": "1.1.0-SNAPSHOT.100200000000526",
   "description": "Application Descriptor Repository for the FOLIO Ebsconet integration",
   "platform": "complete",
   "dependencies": [
@@ -12,7 +12,7 @@
   "modules": [
     {
       "name": "mod-ebsconet",
-      "version": "2.5.0-SNAPSHOT.92"
+      "version": "2.5.0-SNAPSHOT.96"
     }
   ],
   "uiModules": []
