@@ -6,14 +6,14 @@
   "dependencies": [
     {
       "name": "app-acquisitions",
-      "version": "^VERSION_^1.2.0-SNAPSHOT",
+      "version": "~2.0.0",
       "preRelease": "false"
     }
   ],
   "modules": [
     {
       "name": "mod-ebsconet",
-      "version": "^VERSION_latest",
+      "version": "~2.5.0",
       "preRelease": "false"
     }
   ]
